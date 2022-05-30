@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @danburgundy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, HTML, CSS, Linux, Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I’m @danburgundy
+📫 How to reach me:  a.nazifaydin@gmail.com
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
