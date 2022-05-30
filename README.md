@@ -7,6 +7,10 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a6d7875326c694c4c6b784f53446f62682e706e67](https://user-images.githubusercontent.com/94078747/171028354-cdc6b260-b435-4a7a-9316-55116ad44ed6.png)
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danburgundy)](https://github.com/asdsda/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danburgundy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=danburgundy&color=green)
 <!---
