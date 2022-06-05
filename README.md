@@ -1,9 +1,9 @@
 
 
-📫 How to reach me:  a.nazifaydin@gmail.com
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;Hi+there+👋+I’m+@danburgundy.)](https://git.io/typing-svg)
+
+
+📫 How to reach me:  a.nazifaydin@gmail.com
 
 
 
